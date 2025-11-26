@@ -2,7 +2,7 @@
 
 spring:
   application:
-    name: product
+    name: order
 
 eureka:
   client:
